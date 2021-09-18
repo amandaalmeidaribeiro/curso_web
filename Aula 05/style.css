@@ -1,0 +1,52 @@
+.div_principal1{
+    width: 600px;
+    height: 450px;
+    border: solid 3px #ece486;
+    background-color: #fffcd5;
+   
+}
+
+.titulo_formulario{
+
+    width: 96%; 
+    height: 40px; 
+    border: solid 3px #93fac0; 
+    background-color: #93fac0;
+    margin: 0 auto; 
+    margin-top: 5px;
+    line-height: 40px; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+th{
+    width: 50%; 
+    height: 30px;
+    background-color: #FCB590;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 30px;
+    text-align: center;
+}
+td{
+
+    width: 50%; 
+    height: 30px;
+    background-color: #95F0BC;
+    margin: 0 auto;
+    line-height: 30px;
+    text-align: center;
+
+}
+
+table{
+    width: 97%;
+    border: solid 3px #FCB590;
+    margin: 0 auto; 
+    margin-top: 5px;
+    border-spacing: 10px 5px;;
+    
+}
